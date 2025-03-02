@@ -3,8 +3,8 @@
 Este documento explica como utilizar a Base API para criar comandos e funcionalidades para seu bot no Discord, além de fornecer um guia para desenvolvimento de bots utilizando Python com MongoDB.
 
 ## 📋 Índice
-
-- [Início Rápido](./wiki/Quick-Start)
+As informações detalhadas sobre o projeto estão disponíveis na Wiki
+* [Início Rápido](./Quick-Start)
 - [Instalação e Configuração](./wiki/Installation-and-Configuration)
 - [Base API e Criação de Comandos](./wiki/Base-API-and-Commands)
 - [Sistema de Banco de Dados MongoDB](./wiki/MongoDB-Database)
