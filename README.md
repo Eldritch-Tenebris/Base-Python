@@ -4,14 +4,14 @@ Este documento explica como utilizar a Base API para criar comandos e funcionali
 
 ## 📋 Índice
 As informações detalhadas sobre o projeto estão disponíveis na Wiki
-* [Início Rápido](./Quick-Start)
-- [Instalação e Configuração](./wiki/Installation-and-Configuration)
-- [Base API e Criação de Comandos](./wiki/Base-API-and-Commands)
-- [Sistema de Banco de Dados MongoDB](./wiki/MongoDB-Database)
-- [Embeds e Componentes](./wiki/Embeds-and-Components)
-- [Eventos e Handlers](./wiki/Events-and-Handlers)
-- [Hospedagem e Deployment](./wiki/Hosting-and-Deployment)
-- [FAQ e Solução de Problemas](./wiki/FAQ-and-Troubleshooting)
+- Início Rápido
+- Instalação e Configuração
+- Base API e Criação de Comandos
+- Sistema de Banco de Dados MongoDB
+- Embeds e Componentes
+- Eventos e Handlers
+- Hospedagem e Deployment
+- FAQ e Solução de Problemas
 
 ---
 
