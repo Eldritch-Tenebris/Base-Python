@@ -1,0 +1,12 @@
+# Core
+discord.py>=2.0.0
+python-dotenv>=0.19.0
+pyyaml>=6.0
+
+# Database
+pymongo>=4.0.0
+dnspython>=2.0.0  # Para suporte a MongoDB URI
+
+# Funcionalidades extras (opcionais)
+wavelink>=1.0.0  # Para reprodução de música
+aiohttp>=3.8.0   # Para requisições HTTP assíncronas

@@ -1,0 +1,27 @@
+# Configurações do Bot Discord
+
+bot:
+  cor_padrao: "#7289DA"
+  status: "Slash Commands"
+
+recursos:
+  musica:
+    habilitado: true
+    volume_padrao: 70
+    auto_desconectar: 300  # segundos até desconectar do canal
+    max_playlist: 50
+
+  niveis:
+    habilitado: true
+    xp_por_mensagem: 2
+    cooldown: 60  # segundos entre ganhos de XP
+
+  moderacao:
+    habilitado: true
+    logs_habilitado: true
+    auto_role_habilitado: false
+
+mensagens:
+  boas_vindas: "Olá {user}! Bem-vindo(a) ao {server}! Agora somos {count} membros!"
+  saida: "**{user}** saiu do servidor. Esperamos vê-lo novamente!"
+  subida_nivel: "🎉 Parabéns, {user}! Você alcançou o nível {level}!"
