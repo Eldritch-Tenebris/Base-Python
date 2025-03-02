@@ -4,13 +4,14 @@ Este documento explica como utilizar a Base API para criar comandos e funcionali
 
 ## 📋 Índice
 
-- [Criação de Comandos](#criação-de-comandos)
-- [Embeds e Componentes](#embeds-e-componentes)
-- [Helpers e Utilidades](#helpers-e-utilidades)
-- [Exemplos Práticos](#exemplos-práticos)
-- [Instalação e Configuração](#instalação-e-configuração)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Configurações Avançadas](#configurações-avançadas)
+- [Início Rápido](./Quick-Start)
+- [Instalação e Configuração](./Installation-and-Configuration)
+- [Base API e Criação de Comandos](./Base-API-and-Commands)
+- [Sistema de Banco de Dados MongoDB](./MongoDB-Database)
+- [Embeds e Componentes](./Embeds-and-Components)
+- [Eventos e Handlers](./Events-and-Handlers)
+- [Hospedagem e Deployment](./Hosting-and-Deployment)
+- [FAQ e Solução de Problemas](./FAQ-and-Troubleshooting)
 
 ---
 
